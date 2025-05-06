@@ -35,6 +35,32 @@ The AI-based Real-time Personalized Nutritional Supplement Recommendation and Ma
   </table>
 </div>
 
+## Key Technologies Detail
+
+### Advanced AI Models
+The system utilizes state-of-the-art AI models including Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), and Transformer architectures to analyze complex health data patterns and generate personalized recommendations.
+
+### Biosignal Sensors
+Ultra-miniature biosensors including ear-insertion devices capable of measuring brainwaves, core temperature, blood flow, and electrochemical signals with unprecedented precision.
+
+### Ultra-high-speed Communications
+Utilizing 5G and beyond technology to provide real-time data transfer with sub-millisecond latency, enabling immediate feedback and continuous health monitoring.
+
+### Secure Data Management
+Blockchain-based security ensures data integrity and privacy while allowing selective sharing of anonymized data for research purposes.
+
+### Edge Computing
+On-device AI processing reduces latency and enhances privacy by minimizing data transfer requirements while enabling operation in areas with limited connectivity.
+
+### 2nm Semiconductor Technology
+Cutting-edge 2nm semiconductor process enables miniaturization of sensors and processing units while improving energy efficiency and computational capabilities.
+
+### AR/VR Interfaces
+Immersive augmented and virtual reality interfaces provide intuitive visualization of health data and nutritional information, enhancing user engagement and understanding.
+
+### Electrochemical Impedance Spectroscopy
+Advanced measurement technique capable of detecting neurotransmitters, hormones, and other biomarkers with laboratory-grade accuracy in a non-invasive form factor.
+
 ## 🏗️ System Architecture
 
 The system consists of six interconnected modules that work together to provide a comprehensive nutritional management solution:
